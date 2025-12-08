@@ -1,0 +1,364 @@
+2025-08-02 23:24:02,585 - INFO - Starting sync for folder: GDrive_Folder
+2025-08-02 23:24:02,585 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:24:02,585 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:24:02,585 - INFO - Loaded existing token
+2025-08-02 23:24:02,585 - INFO - Refreshing expired token...
+2025-08-02 23:24:02,909 - INFO - Token refreshed successfully
+2025-08-02 23:24:02,909 - INFO - Token saved successfully
+2025-08-02 23:24:02,909 - INFO - Google Drive authentication successful
+2025-08-02 23:24:02,921 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:24:02,923 - INFO - Google Drive service built successfully
+2025-08-02 23:24:03,507 - INFO - Found 3 files in folder
+2025-08-02 23:24:03,507 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:24:03,507 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:24:04,018 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:24:05,606 - INFO - Download progress: 100%
+2025-08-02 23:24:05,606 - INFO - Download completed: 674039 bytes
+2025-08-02 23:24:05,606 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:24:05,688 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:24:05,951 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:24:05,951 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:24:05,951 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:24:06,475 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:24:07,884 - INFO - Download progress: 100%
+2025-08-02 23:24:07,884 - INFO - Download completed: 173970 bytes
+2025-08-02 23:24:07,884 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:24:07,965 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:24:07,997 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:24:07,998 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:24:07,998 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:24:08,403 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:24:15,199 - INFO - Download progress: 100%
+2025-08-02 23:24:15,200 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:24:15,200 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:24:21,042 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:24:22,416 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:24:22,416 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-02 23:31:02,316 - INFO - Loaded existing token
+2025-08-02 23:31:02,316 - INFO - Google Drive authentication successful
+2025-08-02 23:31:17,515 - INFO - Loaded existing token
+2025-08-02 23:31:17,515 - INFO - Google Drive authentication successful
+2025-08-02 23:31:17,515 - INFO - Loaded existing token
+2025-08-02 23:31:17,515 - INFO - Google Drive authentication successful
+2025-08-02 23:31:17,516 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:34:17,783 - INFO - Loaded existing token
+2025-08-02 23:34:17,783 - INFO - Google Drive authentication successful
+2025-08-02 23:36:29,222 - INFO - Starting sync for folder: Test Telecom Documents
+2025-08-02 23:36:29,222 - INFO - Folder URL: https://drive.google.com/drive/folders/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms
+2025-08-02 23:36:29,222 - INFO - Folder ID: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms
+2025-08-02 23:36:29,223 - INFO - Loaded existing token
+2025-08-02 23:36:29,223 - INFO - Google Drive authentication successful
+2025-08-02 23:36:29,223 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:36:29,225 - INFO - Google Drive service built successfully
+2025-08-02 23:36:30,011 - INFO - Found 0 files in folder
+2025-08-02 23:36:30,011 - WARNING - No files found in folder
+2025-08-02 23:36:30,022 - INFO - Starting single file sync: https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/view?usp=sharing
+2025-08-02 23:36:30,023 - INFO - File ID: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms
+2025-08-02 23:36:30,023 - INFO - Loaded existing token
+2025-08-02 23:36:30,023 - INFO - Google Drive authentication successful
+2025-08-02 23:36:30,024 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:36:30,687 - WARNING - Unsupported file type: Example Spreadsheet (application/vnd.google-apps.spreadsheet)
+2025-08-02 23:37:05,791 - INFO - Starting sync for folder: Telecom Documents
+2025-08-02 23:37:05,791 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:37:05,792 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:37:05,792 - INFO - Loaded existing token
+2025-08-02 23:37:05,792 - INFO - Google Drive authentication successful
+2025-08-02 23:37:05,793 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:37:05,794 - INFO - Google Drive service built successfully
+2025-08-02 23:37:06,362 - INFO - Found 3 files in folder
+2025-08-02 23:37:06,362 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:37:06,363 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:37:06,794 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:37:08,778 - INFO - Download progress: 100%
+2025-08-02 23:37:08,778 - INFO - Download completed: 674039 bytes
+2025-08-02 23:37:08,778 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:37:08,871 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:37:09,121 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:37:09,121 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:37:09,121 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:37:09,649 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:37:11,587 - INFO - Download progress: 100%
+2025-08-02 23:37:11,587 - INFO - Download completed: 173970 bytes
+2025-08-02 23:37:11,588 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:37:11,717 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:37:11,750 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:37:11,750 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:37:11,750 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:37:12,302 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:37:17,580 - INFO - Download progress: 100%
+2025-08-02 23:37:17,580 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:37:17,580 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:37:23,159 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:37:24,503 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:37:24,504 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-02 23:37:24,511 - INFO - Starting single file sync: https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/view?usp=sharing
+2025-08-02 23:37:24,511 - INFO - File ID: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms
+2025-08-02 23:37:24,511 - INFO - Loaded existing token
+2025-08-02 23:37:24,511 - INFO - Google Drive authentication successful
+2025-08-02 23:37:24,512 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:37:25,102 - INFO - Downloading file ID: 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms
+2025-08-02 23:37:25,613 - INFO - File: Example Spreadsheet, Size: 0 bytes
+2025-08-02 23:37:26,432 - WARNING - Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-08-02 23:37:26,433 - ERROR - Download failed for file 1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-08-02 23:37:26,433 - ERROR - Single file sync failed: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-08-02 23:40:49,598 - INFO - Starting sync for folder: f
+2025-08-02 23:40:49,598 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:40:49,598 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:40:49,598 - INFO - Loaded existing token
+2025-08-02 23:40:49,598 - INFO - Google Drive authentication successful
+2025-08-02 23:40:49,599 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:40:49,601 - INFO - Google Drive service built successfully
+2025-08-02 23:40:50,269 - INFO - Found 3 files in folder
+2025-08-02 23:40:50,270 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:40:50,270 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:40:50,709 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:40:52,214 - INFO - Download progress: 100%
+2025-08-02 23:40:52,214 - INFO - Download completed: 674039 bytes
+2025-08-02 23:40:52,214 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:40:52,290 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-02 23:40:52,303 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:40:52,540 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:40:52,540 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:40:52,540 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:40:52,975 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:40:54,166 - INFO - Download progress: 100%
+2025-08-02 23:40:54,166 - INFO - Download completed: 173970 bytes
+2025-08-02 23:40:54,166 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:40:54,315 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-02 23:40:54,328 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:40:54,360 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:40:54,360 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:40:54,361 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:40:54,921 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:40:59,242 - INFO - Download progress: 100%
+2025-08-02 23:40:59,242 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:40:59,242 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:41:04,817 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-02 23:41:04,821 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:41:06,350 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:41:06,351 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-02 23:42:34,993 - INFO - Loaded existing token
+2025-08-02 23:42:34,993 - INFO - Google Drive authentication successful
+2025-08-02 23:42:34,994 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:42:34,996 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:42:35,507 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:42:37,223 - INFO - Download progress: 100%
+2025-08-02 23:42:37,223 - INFO - Download completed: 674039 bytes
+2025-08-02 23:42:37,300 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-02 23:42:37,611 - INFO - Loaded existing token
+2025-08-02 23:42:37,611 - INFO - Google Drive authentication successful
+2025-08-02 23:42:37,612 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:42:37,614 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:42:38,086 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:42:39,273 - INFO - Download progress: 100%
+2025-08-02 23:42:39,273 - INFO - Download completed: 173970 bytes
+2025-08-02 23:42:39,408 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-02 23:42:39,452 - INFO - Loaded existing token
+2025-08-02 23:42:39,452 - INFO - Google Drive authentication successful
+2025-08-02 23:42:39,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:42:39,454 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:42:39,984 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:42:44,216 - INFO - Download progress: 100%
+2025-08-02 23:42:44,216 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:42:49,858 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-02 23:43:48,200 - INFO - Starting sync for folder: f
+2025-08-02 23:43:48,200 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:43:48,200 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:43:48,200 - INFO - Loaded existing token
+2025-08-02 23:43:48,200 - INFO - Google Drive authentication successful
+2025-08-02 23:43:48,201 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:43:48,203 - INFO - Google Drive service built successfully
+2025-08-02 23:43:48,798 - INFO - Found 3 files in folder
+2025-08-02 23:43:48,798 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:43:48,798 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:43:49,310 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:43:51,579 - INFO - Download progress: 100%
+2025-08-02 23:43:51,579 - INFO - Download completed: 674039 bytes
+2025-08-02 23:43:51,579 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:43:51,656 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-02 23:43:51,670 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:43:51,705 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:43:51,705 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:43:51,705 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:43:52,281 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:43:53,680 - INFO - Download progress: 100%
+2025-08-02 23:43:53,680 - INFO - Download completed: 173970 bytes
+2025-08-02 23:43:53,680 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:43:53,747 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-02 23:43:53,760 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:43:53,784 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:43:53,784 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:43:53,784 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:43:54,225 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:43:59,154 - INFO - Download progress: 100%
+2025-08-02 23:43:59,154 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:43:59,154 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:44:04,718 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-02 23:44:04,759 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:44:06,203 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:44:06,204 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-02 23:48:14,008 - INFO - Starting sync for folder: dd
+2025-08-02 23:48:14,008 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:48:14,008 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:48:14,008 - INFO - Loaded existing token
+2025-08-02 23:48:14,008 - INFO - Google Drive authentication successful
+2025-08-02 23:48:14,009 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:48:14,011 - INFO - Google Drive service built successfully
+2025-08-02 23:48:14,551 - INFO - Found 3 files in folder
+2025-08-02 23:48:14,551 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:48:14,551 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:48:14,970 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:48:16,411 - INFO - Download progress: 100%
+2025-08-02 23:48:16,411 - INFO - Download completed: 674039 bytes
+2025-08-02 23:48:16,411 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:48:16,487 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-02 23:48:16,528 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:48:16,564 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:48:16,564 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:48:16,564 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:48:17,088 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:48:18,240 - INFO - Download progress: 100%
+2025-08-02 23:48:18,240 - INFO - Download completed: 173970 bytes
+2025-08-02 23:48:18,240 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:48:18,305 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-02 23:48:18,317 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:48:18,349 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:48:18,349 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:48:18,349 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:48:18,791 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:48:23,451 - INFO - Download progress: 100%
+2025-08-02 23:48:23,451 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:48:23,451 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:48:29,015 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-02 23:48:29,019 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:48:30,413 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:48:30,413 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-02 23:56:52,824 - INFO - Starting sync for folder: f
+2025-08-02 23:56:52,824 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-02 23:56:52,824 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-02 23:56:52,824 - INFO - Loaded existing token
+2025-08-02 23:56:52,824 - INFO - Google Drive authentication successful
+2025-08-02 23:56:52,825 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-02 23:56:52,827 - INFO - Google Drive service built successfully
+2025-08-02 23:56:53,342 - INFO - Found 3 files in folder
+2025-08-02 23:56:53,342 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-02 23:56:53,342 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-02 23:56:53,783 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-02 23:56:55,622 - INFO - Download progress: 100%
+2025-08-02 23:56:55,623 - INFO - Download completed: 674039 bytes
+2025-08-02 23:56:55,623 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-02 23:56:55,699 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-02 23:56:55,699 - INFO - Extracted 8908 characters from ICDSA_Flyer.pdf
+2025-08-02 23:56:55,712 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-02 23:56:55,959 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-02 23:56:55,959 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:56:55,959 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-02 23:56:56,404 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-02 23:56:57,651 - INFO - Download progress: 100%
+2025-08-02 23:56:57,651 - INFO - Download completed: 173970 bytes
+2025-08-02 23:56:57,651 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:56:57,795 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-02 23:56:57,795 - INFO - Extracted 3386 characters from GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:56:57,808 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:56:57,839 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-02 23:56:57,839 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:56:57,839 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-02 23:56:58,270 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-02 23:57:03,064 - INFO - Download progress: 100%
+2025-08-02 23:57:03,065 - INFO - Download completed: 5045715 bytes
+2025-08-02 23:57:03,065 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:57:08,654 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-02 23:57:08,654 - INFO - Extracted 1564474 characters from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:57:08,679 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:57:10,207 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-02 23:57:10,207 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-03 00:00:58,606 - INFO - Starting sync for folder: Google_Drive_Folder
+2025-08-03 00:00:58,606 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-03 00:00:58,606 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-03 00:00:58,606 - INFO - Loaded existing token
+2025-08-03 00:00:58,606 - INFO - Google Drive authentication successful
+2025-08-03 00:00:58,608 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-03 00:00:58,609 - INFO - Google Drive service built successfully
+2025-08-03 00:00:59,134 - INFO - Found 3 files in folder
+2025-08-03 00:00:59,134 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-03 00:00:59,134 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-03 00:00:59,619 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-03 00:01:01,014 - INFO - Download progress: 100%
+2025-08-03 00:01:01,014 - INFO - Download completed: 674039 bytes
+2025-08-03 00:01:01,015 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-03 00:01:01,091 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-03 00:01:01,092 - INFO - Extracted 8908 characters from ICDSA_Flyer.pdf
+2025-08-03 00:01:01,104 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-03 00:01:01,358 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-03 00:01:01,358 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:01:01,358 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-03 00:01:02,074 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-03 00:01:04,275 - INFO - Download progress: 100%
+2025-08-03 00:01:04,275 - INFO - Download completed: 173970 bytes
+2025-08-03 00:01:04,275 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:01:04,423 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-03 00:01:04,423 - INFO - Extracted 3386 characters from GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:01:04,436 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:01:04,458 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:01:04,459 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:01:04,459 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-03 00:01:05,044 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-03 00:01:10,200 - INFO - Download progress: 100%
+2025-08-03 00:01:10,200 - INFO - Download completed: 5045715 bytes
+2025-08-03 00:01:10,200 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:01:16,173 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-03 00:01:16,173 - INFO - Extracted 1564474 characters from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:01:16,198 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:01:17,799 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:01:17,800 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-03 00:03:52,874 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:06:00,306 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:06:04,299 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:06:07,136 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:06:11,095 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:06:53,876 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:07:04,489 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-03 00:13:11,749 - INFO - Starting sync for folder: Google_Drive_Folder
+2025-08-03 00:13:11,749 - INFO - Folder URL: https://drive.google.com/drive/folders/1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe?usp=sharing
+2025-08-03 00:13:11,749 - INFO - Folder ID: 1qjCvs9iOB-boqWcShJt3ZAL0we_94rMe
+2025-08-03 00:13:11,750 - INFO - Loaded existing token
+2025-08-03 00:13:11,750 - INFO - Google Drive authentication successful
+2025-08-03 00:13:11,752 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-03 00:13:11,754 - INFO - Google Drive service built successfully
+2025-08-03 00:13:12,291 - INFO - Found 3 files in folder
+2025-08-03 00:13:12,291 - INFO - Processing file 1/3: ICDSA_Flyer.pdf
+2025-08-03 00:13:12,291 - INFO - Downloading file ID: 1ECshdU586r8JEso_CoHlb3U9CP97jqpZ
+2025-08-03 00:13:12,784 - INFO - File: ICDSA_Flyer.pdf, Size: 0 bytes
+2025-08-03 00:13:14,275 - INFO - Download progress: 100%
+2025-08-03 00:13:14,276 - INFO - Download completed: 674039 bytes
+2025-08-03 00:13:14,276 - INFO - Extracting text from ICDSA_Flyer.pdf
+2025-08-03 00:13:14,364 - INFO - Successfully extracted 8908 characters from PDF
+2025-08-03 00:13:14,364 - INFO - Extracted 8908 characters from ICDSA_Flyer.pdf
+2025-08-03 00:13:14,367 - INFO - ✓ Successfully processed: ICDSA_Flyer.pdf
+2025-08-03 00:13:14,406 - INFO - ✓ Stored in ChromaDB: ICDSA_Flyer.pdf
+2025-08-03 00:13:14,406 - INFO - Processing file 2/3: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:13:14,406 - INFO - Downloading file ID: 14ApWkEeEzA35c3qtMyVPvicEqxR16nHT
+2025-08-03 00:13:14,832 - INFO - File: GATE _DA_2025_Syllabus (4).pdf, Size: 0 bytes
+2025-08-03 00:13:16,201 - INFO - Download progress: 100%
+2025-08-03 00:13:16,202 - INFO - Download completed: 173970 bytes
+2025-08-03 00:13:16,202 - INFO - Extracting text from GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:13:16,354 - INFO - Successfully extracted 3386 characters from PDF
+2025-08-03 00:13:16,354 - INFO - Extracted 3386 characters from GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:13:16,367 - INFO - ✓ Successfully processed: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:13:16,393 - INFO - ✓ Stored in ChromaDB: GATE _DA_2025_Syllabus (4).pdf
+2025-08-03 00:13:16,393 - INFO - Processing file 3/3: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:13:16,393 - INFO - Downloading file ID: 1b5DVv4XzXbIW5B6JLy9esNxZ8zpD1HhF
+2025-08-03 00:13:16,983 - INFO - File: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf, Size: 0 bytes
+2025-08-03 00:13:24,559 - INFO - Download progress: 100%
+2025-08-03 00:13:24,559 - INFO - Download completed: 5045715 bytes
+2025-08-03 00:13:24,559 - INFO - Extracting text from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:13:30,577 - INFO - Successfully extracted 1564474 characters from PDF
+2025-08-03 00:13:30,578 - INFO - Extracted 1564474 characters from Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:13:30,614 - INFO - ✓ Successfully processed: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:13:32,255 - INFO - ✓ Stored in ChromaDB: Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf
+2025-08-03 00:13:32,256 - INFO - Sync completed: 3 successful, 0 errors
+2025-08-03 00:15:06,344 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 00:15:18,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 00:15:32,356 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 00:15:47,968 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 00:16:08,194 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
